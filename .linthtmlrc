@@ -1,0 +1,7 @@
+{
+  "rules": {
+    "id-class-no-ad": false,
+    "id-class-style": false,
+    "class-style": "warning"
+  }
+}
